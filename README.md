@@ -4,8 +4,8 @@ This repository contains Python scripts for generating and solving mazes using a
 
 ## Contents
 
-- `redpill.py`: Python script for generating and solving mazes, with one entrance and exit point.
-- `bluepill.py`: Python script for generating and solving mazes, with additional starting and ending points.
+- `blackpill.py`: Python script for generating and solving mazes, with one entrance and exit point.
+- `whitepill.py`: Python script for generating and solving mazes, with additional starting and ending points.
 
 ## How to Use
 
